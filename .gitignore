@@ -23,3 +23,6 @@ hs_err_pid*
 
 # copyrighted music file
 i.mp3
+
+# copyrighted exe
+*.exe
